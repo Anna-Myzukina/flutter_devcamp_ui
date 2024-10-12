@@ -4,7 +4,7 @@
 ### Topic: Flutter Basics layouts & widgets
 - [x] Necessary Progect: [flutter_ui](https://github.com/Anna-Myzukina/flutter_devcamp_ui)
 
-<img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/fl_ui_main.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_2024/blob/main/screenshots/mentors_screen.png" height="400">
+<img src="https://github.com/Anna-Myzukina/flutter_devcamp_ui/blob/main/assets/screenshots/main_screen.png" height="400"> <img src="https://github.com/Anna-Myzukina/flutter_devcamp_ui/blob/main/assets/screenshots/mentors_screen.png" height="400">
 
 ## Getting Started
 
